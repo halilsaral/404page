@@ -16,7 +16,7 @@ This project provides a custom-designed 404 error page that can be easily integr
 1. Clone this repository from GitHub using the `git clone` command:
 
 ```bash
-git clone https://github.com/yourusername/Custom-404-Error-Page.git
+git clone https://github.com/halilsaral/404page.git
 ```
 
 2. Copy the 404.html file and the css and js folders from the cloned repository into your website's root directory.
