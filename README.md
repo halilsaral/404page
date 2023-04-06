@@ -19,19 +19,17 @@ This project provides a custom-designed 404 error page that can be easily integr
 git clone https://github.com/halilsaral/404page.git
 ```
 
-2. Copy the 404.html file and the css and js folders from the cloned repository into your website's root directory.
+2. Copy the index-flat.html file and the css and js folders from the cloned repository into your website's root directory.
 
-3. Update your web server configuration to use the custom 404.html file as the error document for 404 errors. For example, in an .htaccess file for Apache web servers, add the following line:
+3. Update your web server configuration to use the custom index-flat.html file as the error document for 404 errors. For example, in an .htaccess file for Apache web servers, add the following line:
 
-ErrorDocument 404 /404.html
-
-4.If needed, customize the content, styles, and scripts in the 404.html, css, and js files to match your website's branding and functionality.
+4.If needed, customize the content, styles, and scripts in the index-flat.html, css, and js files to match your website's branding and functionality.
 
 5.Test the custom 404 error page by navigating to a non-existent page on your website.
 
 ## Customization
 
--Update the text content in the 404.html file to better suit your website's theme and messaging.
+-Update the text content in the index-flat.html file to better suit your website's theme and messaging.
 
 -Adjust the styles in the css folder to match your website's color scheme and typography.
 
